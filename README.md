@@ -21,5 +21,17 @@ It assigns students to exam rooms, controls exam timing, tracks attendance, and 
 
 **Condition Variables** → Signal when the exam is over.
 
+### Output
+
+<img width="312" height="232" alt="Screenshot 2025-09-01 231200" src="https://github.com/user-attachments/assets/19d4c3c8-a7c9-4c75-84ae-8a7ff914223e" />
+
+<img width="312" height="232" alt="Screenshot 2025-09-01 231316" src="https://github.com/user-attachments/assets/b835e47b-0d2d-4bd5-90bd-cf2029657c0a" />
+
+<img width="312" height="232" alt="Screenshot 2025-09-01 231404" src="https://github.com/user-attachments/assets/ceb6518a-a2dd-41a4-817c-c3dc41222107" />
+
+
+
+
+
 
 
